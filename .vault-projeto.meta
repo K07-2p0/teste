@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "salt": "3ef45b1e19c84211a5bcd79334941437",
+  "kdf": "argon2id",
+  "kdf_params": {
+    "memory_kib": 65536,
+    "time_cost": 3,
+    "parallelism": 4
+  },
+  "verification": "VkFVTFQxLyMX99uwppJ9NDCHDVr4AecS419Jt9CgmPq94t/ajdh78v3dfWfpIgr6CA=="
+}

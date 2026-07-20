@@ -1,0 +1,5 @@
+# >>> vault: generated — do not edit by hand
+# Every file is handed to gitloak, which decides what to encrypt from
+# the (encrypted) gitloakfiles. No path names appear here.
+* filter=vault
+# <<< vault
